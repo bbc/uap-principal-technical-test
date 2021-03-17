@@ -30,7 +30,7 @@ Once you've completed this task, please forward your diagram and plan to your re
 
 You will be assessed on your ability to break down complex and vague requirements into a concrete plan whilst architecting a high level design on how this may actually be implemented. 
 
-If you’d like to clarify any parts of this assessment or the requirements with your steakholders, please reach out to the recruiter.
+If you’d like to clarify any parts of this assessment or the requirements with your stakeholders, please reach out to the recruiter.
 
 ## Assessment Criteria:
 
