@@ -15,27 +15,27 @@ The second stage of the interview will involve bringing this solution to life, s
 Using modern web technologies, plan how you might build an application that meets the following:
 
 - Given an API endpoint render the brands on screen as per the wireframe requirement included
-- Implement animations and transitions using modern web technology so each of the carousel items cycles between the different brand 
-- Host the application on some web hosting environment of your choosing 
+- Implement animations and transitions using modern web technology so each of the carousel items cycles between the different brands
+- Host the application on a web hosting environment of your choosing 
 
 **API Endpoint:** [https://7kowhvjfi7.execute-api.eu-west-1.amazonaws.com/dev/api/brands](https://7kowhvjfi7.execute-api.eu-west-1.amazonaws.com/dev/api/brands)
 
 
 ## Deliverables:
 
-- An implementable plan (do this as a Markdown file)
+- An implementable plan (do this as a plaintext file)
 - A architecture diagram that outlining your solution
 
 Once you've completed this task, please forward your diagram and plan to your recruiter. 
 
 You will be assessed on your ability to break down complex and vague requirements into a concrete plan whilst architecting a high level design on how this may actually be implemented. 
 
-If you’d like to clarify any parts of this assessment or the requirements with your steakholders, please reach out to the recruiter!
+If you’d like to clarify any parts of this assessment or the requirements with your steakholders, please reach out to the recruiter.
 
 ## Assessment Criteria:
 
 - Requirements are sufficiently broken down
-- Proposed technology is modern and relevant for the job role 
+- Proposed technology is up to date and relevant for the job role 
 - The architecture diagram is clear and reflects the high level plan 
 
 ## Wireframe
