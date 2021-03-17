@@ -6,6 +6,8 @@ As the Principal on the team, we'd like you to plan out how you'd achieve this a
 
 __You should spend no more than 60 minutes on this.__
 
+The second stage of the interview will involve bringing this solution to life, so please ensure your plan is implementable within 2 hours!
+
 ## Requirements:
 
 Using modern web technologies, plan how you might build an application that meets the following:
