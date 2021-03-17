@@ -1,5 +1,7 @@
 # UAP Principal Technical Test
 
+![logo](https://user-images.githubusercontent.com/1641689/111457583-49a97180-8710-11eb-9ec0-347c15823a87.png)
+
 We've been asked to build a new web app for a new CBeebies game app using the latest best practices! Your task is to create a new web app that displays a carousel of our brands surfaced from one of our APIs.
 
 As the Principal on the team, we'd like you to plan out how you'd achieve this and design an architecture diagram that outlines your solution.
