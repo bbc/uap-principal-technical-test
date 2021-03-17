@@ -41,3 +41,10 @@ If you’d like to clarify any parts of this assessment or the requirements with
 ## Wireframe
 
 ![Wireframe](./wireframe.png)
+
+## Reference Carousel
+
+All of our game app menus are carousel powered, here is a reference carousel that may aid your planning.
+
+![Screenshot 2021-03-17 at 11 27 57](https://user-images.githubusercontent.com/1641689/111460421-ddc90800-8713-11eb-8c84-e997b76a6c83.png)
+
