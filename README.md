@@ -10,7 +10,7 @@ __You should spend no more than 60 minutes on this.__
 
 The second stage of the interview will involve bringing this solution to life, so please ensure your plan is implementable within 2 hours!
 
-## Requirements:
+## Requirements
 
 Using modern web technologies, plan how you might build an application that meets the following:
 
@@ -21,7 +21,7 @@ Using modern web technologies, plan how you might build an application that meet
 **API Endpoint:** [https://7kowhvjfi7.execute-api.eu-west-1.amazonaws.com/dev/api/brands](https://7kowhvjfi7.execute-api.eu-west-1.amazonaws.com/dev/api/brands)
 
 
-## Deliverables:
+## Deliverables
 
 - An implementable plan (do this as a plaintext file)
 - A architecture diagram that outlining your solution
@@ -32,7 +32,7 @@ You will be assessed on your ability to break down complex and vague requirement
 
 If you’d like to clarify any parts of this assessment or the requirements with your stakeholders, please reach out to the recruiter.
 
-## Assessment Criteria:
+## Assessment Criteria
 
 - Requirements are sufficiently broken down
 - Proposed technology is up to date and relevant for the job role 
@@ -42,7 +42,7 @@ If you’d like to clarify any parts of this assessment or the requirements with
 
 ![Wireframe](./wireframe.png)
 
-## Reference Carousel
+## Reference Carousel:
 
 All of our game app menus are carousel powered, here is a reference carousel that may aid your planning.
 
