@@ -33,6 +33,10 @@ If you’d like to clarify any parts of this assessment or the requirements with
 - Proposed technology is modern and relevant for the job role 
 - The architecture diagram is clear and reflects the high level plan 
 
+## API Endpoint
+
+[https://7kowhvjfi7.execute-api.eu-west-1.amazonaws.com/dev/api/brands](https://7kowhvjfi7.execute-api.eu-west-1.amazonaws.com/dev/api/brands)
+
 ## Wireframe
 
-![./wireframe.png](Wireframe)
+![Wireframe](./wireframe.png)
